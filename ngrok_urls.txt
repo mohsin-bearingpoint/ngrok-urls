@@ -1,3 +1,0 @@
-TTS=https://847e-178-24-228-150.ngrok-free.app
-LLM=https://12ae-178-24-228-150.ngrok-free.app
-STT=https://8966-178-24-228-150.ngrok-free.app
